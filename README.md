@@ -1,5 +1,7 @@
-# just-the-docs-template
+# Experimental superagile website
+This is a repository containing the documentation for Concise's superagile framework.
 
+# Theme documentation
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;

@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Superagile
+description: Superagile framework, approach, and culture. Created by Concise.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Concise Systems: https://concise.ee/
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
