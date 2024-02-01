@@ -7,3 +7,9 @@ url: ""
 aux_links:
   Concise: https://concise.ee/
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+callouts:
+  warning-signs:
+    title: Warning signs
+    color: red

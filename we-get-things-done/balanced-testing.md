@@ -4,6 +4,8 @@ layout: default
 parent: "We get things done"
 ---
 
+# Balanced testing
+
 Testing 100% of every single thing is impossible. Testing close to everything is expensive. Almost no business can afford it. The important thing is to find a balance between what to test, how much to test, and which way to test. This is so that you spend the minimum time possible on it while still guaranteeing maximum quality.
 
 Test what is reasonable since the unthinkable will happen anyway - and when it does, you want to catch it before the user reports come in.

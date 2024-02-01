@@ -4,6 +4,8 @@ layout: default
 parent: "We encourage growth"
 ---
 
+# Business growth
+
 *Imagine embarking on a journey as a driver, placing all your trust in a GPS system without entering a specific destination. As you drive, the GPS might provide turns, stops, and reroutes, but without a clear end point, you'd find yourself driving aimlessly. You wouldn’t know if you've reached a significant location, if you're merely taking a detour, or if you're just circling back to where you started. You wouldn’t be able to work around roadblocks or traffic jams that come up.*
 
 Developers' understanding of the broader vision behind their tasks can radically shift their approach to their work.

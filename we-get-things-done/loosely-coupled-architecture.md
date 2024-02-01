@@ -4,6 +4,8 @@ layout: default
 parent: "We get things done"
 ---
 
+# Loosely couple architecture
+
 As organizations grow, so does the software they produce. The classical way to evolve software is to keep adding new features to the existing one. This is called monolithic architecture.
 
 Microservices, on the other hand, are small, autonomous, independently deployable, and releasable pieces of software that work together via well-defined APIs. This means that instead of a big monolithic application, we have many smaller components.

@@ -4,6 +4,8 @@ layout: default
 parent: "We get things done"
 ---
 
+# Trunk-based development
+
 A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ ("master" in Git nomenclature), resist any pressure to create other long-lived development branches by employing documented techniques. They, therefore, avoid merge hell, do not break the build, and live happily ever after.
 
 We like to keep the feedback loop from end-users to developers as short as possible. For that, we need to practice continuous deployment (CDP). Trunk based development is the fundamental cornerstone to pull off these frequent releases.

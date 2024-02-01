@@ -4,6 +4,8 @@ layout: default
 parent: "We get things done"
 ---
 
+# Continuous deployment
+
 Continuous deployment (CDP) is a software release process where changes are automatically deployed to the production environment without human interaction. It relies solely on automated testing and an automated release pipeline.
 
 Releasing as often as possible encourages you to validate the smaller changes to your users which allows you to adapt quickly. With more experiments like these, your innovation and business will grow exponentially while learning quicker than competitors.
