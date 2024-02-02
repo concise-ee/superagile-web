@@ -19,4 +19,5 @@ Here's where many people get confused: iterative development isn't the same as i
 This begs the question: does MVP thinking imply that we should skip research and planning altogether? Absolutely not. Striking a balance between research and development is crucial. The balancing act comes in determining when it’s more efficient to learn by researching versus by developing. It's about asking: "Will more research significantly reduce uncertainties?" versus "Will diving into development and getting real-world feedback provide clearer insights?"
 
 **KPIs to measure:**
+
 - How quickly you go through the whole cycle – from starting at the initial idea to learning from feedback or data – on average?

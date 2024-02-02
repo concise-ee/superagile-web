@@ -10,6 +10,7 @@ parent: "We encourage growth"
 
 One of the critical impediments to a team's efficiency is the frequency of communication outside the immediate team for decision-making or information-gathering. Every instance where a team member has to pause, reach out, and wait for information or a decision from someone is a potential delay in the workflow.
 There are two ways to avoid these delays:
+
 1. **Short Communication Flow:** Make sure everyone has the freedom to directly address questions or issues by talking to other teams
 2. **Full Stack Team:** Make sure each team has everything they need to work without constantly waiting for, or asking others. (See Full Stack Team chapter)
 
@@ -20,4 +21,5 @@ Different roles exist such as team lead, tech lead, and product manager. However
 To truly harness the potential of every developer, granting them access to communicate with other teams and functions is paramount. This not only eliminates the waiting game but also nurtures a generative culture where solutions are sought and found without delay.
 
 **KPIs to measure:**
+
 - How often does someone in the team say: “this could have been prevented if we knew that beforehand”?

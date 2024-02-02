@@ -19,6 +19,7 @@ Of course, it means that the size of the team matters. Just like Scrum and sever
 Another important aspect is that there should be no knowledge or skill that only one person can master. Then the stress and risks are too high. How can one go on vacation? How does one not become a blocker inside of the team? Sharing goals and knowledge grows productivity and makes prioritization much more effortless. Once the priority changes, the whole team is aware of it and there is no need to coordinate it between several teams (as would be the case if backend and frontend developing occurred separately).
 
 A case study from our own experience - we used to have an infrastructure team taking care of the production environment. Now we have a platform team that builds the environment where all of the development teams can handle production activities with Kubernetes themselves. In 1:1s, we have received great feedback from developers that this has been a remarkable change because:
+
 - it gives a strong feeling of ownership;
 - it makes the process quicker;
 - it is fun to learn new things.

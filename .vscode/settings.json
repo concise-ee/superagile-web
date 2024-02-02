@@ -8,5 +8,8 @@
         "superagile",
         "Zhuk",
         "#superagile"
-    ]
+    ],
+    "markdownlint.config": {
+        "MD025": false
+    }
 }

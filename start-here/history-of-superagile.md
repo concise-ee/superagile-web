@@ -6,7 +6,7 @@ nav_order: 2
 
 # History of #superagile
 
-#superagile was created on January 10, 2019 by Aive Uus, Mikk Soone, and Andrei Zhuk from the Concise Growth Team. They aimed to enhance Concise's way of working and vision for the future.
+ #superagile was created on January 10, 2019 by Aive Uus, Mikk Soone, and Andrei Zhuk from the Concise Growth Team. They aimed to enhance Concise's way of working and vision for the future.
 
 Out of many options, they selected "superagile" because it sparked strong reactions. People either loved it or hated it, but noone was indifferent.
 

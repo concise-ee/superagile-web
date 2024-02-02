@@ -21,5 +21,6 @@ This agile mindset ensures that even if an initial hypothesis is off-mark, the t
 In conclusion, when developers are intricately aligned with the business vision, the company stands to gain immensely. Not only do they produce more relevant and innovative solutions, but they also help position the business favorably in a competitive landscape.
 
 **KPIs to measure:**
+
 - How many of the built functionalities have a measurable hypothesis set before it is developed?
 - How many of the features that turned out to be not-so-successful could have been prevented with better cooperation and idea validation beforehand?
