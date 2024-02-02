@@ -6,8 +6,7 @@ parent: "We do things together"
 
 # Celebration
 
-*“We've got to stop every once in a while and celebrate one another and our team victories, no matter how small.”* -
-Brene Brown
+> *“We've got to stop every once in a while and celebrate one another and our team victories, no matter how small.”* - Brene Brown
 
 Yes, there's more work to be done, and things could go sideways in an hour, but that will never take away from the fact that we need to celebrate an accomplishment right now.
 

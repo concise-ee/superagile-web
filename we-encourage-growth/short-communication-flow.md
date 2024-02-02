@@ -6,7 +6,7 @@ parent: "We encourage growth"
 
 # Short communication flow
 
-*Imagine a busy kitchen in a top-rated restaurant. Chefs are working tirelessly, waiters are weaving in and out with plates, and the head chef is overseeing everything closely. Now imagine if every time one chef needed an ingredient, he had to ask the head chef, wait for approval and then get it from another chef. The kitchen would be chaotic and the service slow.*
+> *Imagine a busy kitchen in a top-rated restaurant. Chefs are working tirelessly, waiters are weaving in and out with plates, and the head chef is overseeing everything closely. Now imagine if every time one chef needed an ingredient, he had to ask the head chef, wait for approval and then get it from another chef. The kitchen would be chaotic and the service slow.*
 
 One of the critical impediments to a team's efficiency is the frequency of communication outside the immediate team for decision-making or information-gathering. Every instance where a team member has to pause, reach out, and wait for information or a decision from someone is a potential delay in the workflow.
 There are two ways to avoid these delays:

@@ -6,7 +6,7 @@ parent: "We encourage growth"
 
 # MVP thinking
 
-*Airbnb started as a simple site in 2007 when two people were struggling to pay the rent of their accommodation in San Francisco. As a solution, they thought of renting the top floor of their apartment to the visitors. An ad about renting an air bed on a basic web page was placed. It consisted of their housing pictures and soon they had three guests. This simple solution later transformed into a company now valued at billions of dollars with millions of listings.*
+> *Airbnb started as a simple site in 2007 when two people were struggling to pay the rent of their accommodation in San Francisco. As a solution, they thought of renting the top floor of their apartment to the visitors. An ad about renting an air bed on a basic web page was placed. It consisted of their housing pictures and soon they had three guests. This simple solution later transformed into a company now valued at billions of dollars with millions of listings.*
 
 MVP thinking emphasizes iterative development, where a product evolves step by step, using feedback to refine and improve it after each phase.
 
