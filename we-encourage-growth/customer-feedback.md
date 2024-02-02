@@ -1,5 +1,5 @@
 ---
-title: "Customer Feedback"
+title: "Customer feedback"
 layout: default
 parent: "We encourage growth"
 ---

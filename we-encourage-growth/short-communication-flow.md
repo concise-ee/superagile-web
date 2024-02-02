@@ -1,5 +1,5 @@
 ---
-title: "Short Communication Flow"
+title: "Short communication flow"
 layout: default
 parent: "We encourage growth"
 ---

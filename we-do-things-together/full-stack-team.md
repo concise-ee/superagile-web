@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Team"
+title: "Full stack team"
 layout: default
 parent: "We do things together"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Trunk Based Development"
+title: "Trunk based development"
 layout: default
 parent: "We get things done"
 ---

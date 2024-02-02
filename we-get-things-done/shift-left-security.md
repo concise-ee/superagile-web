@@ -1,5 +1,5 @@
 ---
-title: "Shift Left Security"
+title: "Shift-left security"
 layout: default
 parent: "We get things done"
 ---

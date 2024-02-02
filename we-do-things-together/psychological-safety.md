@@ -1,5 +1,5 @@
 ---
-title: "Psychological Safety"
+title: "Psychological safety"
 layout: default
 parent: "We do things together"
 ---

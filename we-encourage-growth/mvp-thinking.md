@@ -1,5 +1,5 @@
 ---
-title: "MVP Thinking"
+title: "MVP thinking"
 layout: default
 parent: "We encourage growth"
 ---

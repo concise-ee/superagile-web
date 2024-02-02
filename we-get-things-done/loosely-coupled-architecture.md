@@ -1,5 +1,5 @@
 ---
-title: "Loosely Coupled Architecture"
+title: "Loosely coupled architecture"
 layout: default
 parent: "We get things done"
 ---

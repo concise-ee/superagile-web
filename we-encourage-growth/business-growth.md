@@ -1,5 +1,5 @@
 ---
-title: "Business Growth"
+title: "Business growth"
 layout: default
 parent: "We encourage growth"
 ---
