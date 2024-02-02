@@ -10,9 +10,17 @@
 - For **Linux** just use your favorite package manager.
 - **MacOS** comes with Ruby v2 by default. You need to install newer version of Ruby. For instructions, see [Install Ruby MacOS].
 
-#### Bundler and Jekyll
+#### Bundler
 
-```gem install bundler jekyll```
+```gem install bundler```
+
+#### Other dependencies
+
+```bundle install```
+
+To update installed gems to their latest version
+
+```bundle update```
 
 ### Building and previewing locally
 
