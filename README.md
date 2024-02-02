@@ -14,14 +14,6 @@
 
 ```gem install bundler```
 
-#### Other dependencies
-
-```bundle install```
-
-To update installed gems to their latest version
-
-```bundle update```
-
 ### Building and previewing locally
 
 1. Change your working directory to the root directory of your site.
