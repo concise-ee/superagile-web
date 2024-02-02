@@ -16,7 +16,7 @@ There are two ways to avoid these delays:
 
 We are always looking for a better balance between different roles and direct communication in our #superagile approach. While it's crucial to ensure clear communication, it doesn't mean everyone should be included everywhere—doing so can be inefficient.
 
-Different roles exist such as team lead, tech lead, and product manager. However, the primary purpose of these lead roles is to support the team in achieving their goals, not to act as intermediaries. If one person becomes a bottleneck, it's time to re-evaluate and reorganise communication patterns.
+Different roles exist such as team lead, tech lead, and product manager. However, the primary purpose of these lead roles is to support the team in achieving their goals, not to act as intermediaries. If one person becomes a bottleneck, it's time to re-evaluate and reorganize communication patterns.
 
 To truly harness the potential of every developer, granting them access to communicate with other teams and functions is paramount. This not only eliminates the waiting game but also nurtures a generative culture where solutions are sought and found without delay.
 

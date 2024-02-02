@@ -4,13 +4,15 @@
 
 ### Dependencies
 
-**1. Ruby**
+#### Ruby
 
 - For **Windows** easiest solution is [RubyInstaller](https://rubyinstaller.org/).
 - For **Linux** just use your favorite package manager.
 - **MacOS** comes with Ruby v2 by default. You need to install newer version of Ruby. For instructions, see [Install Ruby MacOS].
 
-**2. Bundler and Jekyll**: ```gem install bundler jekyll```
+#### Bundler and Jekyll
+
+```gem install bundler jekyll```
 
 ### Building and previewing locally
 

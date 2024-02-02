@@ -26,7 +26,7 @@ So once you have mastered all of the elements of #superagile, **never forget thi
 
 ## Creating the baseline
 
-Celebration is all about creativity and can range fro mbig lavish events to small thank you's. It is very natural that each team will gradually develop a different celebration culture. It's rarely the case where you can say that there's enough celebration in a team, but if you're just starting out, a good baseline is:
+Celebration is all about creativity and can range from big lavish events to small thank you's. It is very natural that each team will gradually develop a different celebration culture. It's rarely the case where you can say that there's enough celebration in a team, but if you're just starting out, a good baseline is:
 
 - Celebrating each team member's birthday, even just saying happy birthday during stand-up, to celebrate each person themselves in the team.
 - Doing a shout out to everyone part of the project after an important feature, bugfix or technical improvement was done.
