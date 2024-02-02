@@ -1,8 +1,10 @@
 ---
-title: "History of Superagile"
+title: "History of #superagile"
 layout: default
 nav_order: 2
 ---
+
+# History of #superagile
 
 #superagile was created on January 10, 2019 by Aive Uus, Mikk Soone, and Andrei Zhuk from the Concise Growth Team. They aimed to enhance Concise's way of working and vision for the future.
 

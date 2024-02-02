@@ -1,8 +1,10 @@
 ---
-title: "What is superagile?"
+title: "What is #superagile?"
 layout: default
 nav_order: 1
 ---
+
+# What is #superagile?
 
 #superagile is a framework, approach, and culture used by teams building products and software at Concise.
 
