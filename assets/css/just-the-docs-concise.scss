@@ -1,0 +1,164 @@
+@font-face {
+  font-family: 'Circular';
+  font-weight: 400;
+  src: url('../fonts/CircularStd-Book.woff') format('woff');
+}
+@font-face {
+  font-family: 'Circular';
+  font-weight: 600;
+  src: url('../fonts/CircularStd-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'Circular';
+  font-weight: 700;
+  src: url('../fonts/CircularStd-Bold.woff') format('woff');
+}
+
+body {
+  font-size: 18px;
+  background-color: $grey-1;
+  color: $white;
+  font-family: 'Circular', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main-content h2 {
+  text-transform: none !important;
+  font-size: 2rem !important;
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#toctitle {
+  font-weight: 600;
+  color: $white;
+}
+
+#main-content {
+  & ul > li::before {
+    color: $white;
+  }
+  a {
+    color: $yellow-0;
+    text-decoration: none;
+  }
+}
+
+.main-header {
+  background-color: $grey-0;
+  .search-input {
+    background-color: $grey-0;
+    color: $white;
+    &::placeholder {
+      color: $white;
+    }
+  }
+}
+.search-result:hover,
+.search-result.active {
+  background-color: $grey-1;
+}
+
+.search-active .search-results {
+  background-color: $grey-0;
+  color: $white;
+  a {
+    color: $yellow-0;
+  }
+  span {
+    color: $white;
+  }
+}
+.search-result-doc .search-result-icon {
+  color: $yellow-0;
+}
+
+.search-label .search-icon {
+  color: $yellow-0;
+}
+.site-button {
+  color: $yellow-0;
+  &:hover {
+    background-image: none;
+  }
+}
+.search-input:focus + .search-label .search-icon {
+  color: $yellow-0;
+}
+
+.side-bar {
+  background-color: $grey-2;
+  .site-title {
+    color: $yellow-0;
+    &:hover {
+      background-image: none;
+    }
+  }
+}
+
+.nav-list .nav-list-item .nav-list-link,
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+  background-image: none;
+}
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+  color: $white;
+  &:hover,
+  &.active {
+    color: $yellow-0;
+  }
+}
+
+.breadcrumb-nav-list-item {
+  a {
+    text-decoration: none;
+    color: $yellow-0;
+    &:hover {
+      color: $yellow-0;
+    }
+  }
+}
+
+:focus-visible {
+  outline: none !important;
+}
+
+.nav-list-item {
+  &.active a {
+    color: $yellow-0;
+  }
+  a {
+    &:hover {
+      color: $yellow-0;
+    }
+    color: $white;
+  }
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+  color: white;
+  &:hover {
+    color: $yellow-0;
+    background-image: none;
+  }
+}
+
+.site-footer {
+  color: $white;
+  a {
+    color: $yellow-0;
+    text-decoration: none;
+    &:hover,
+    &.active {
+      color: $yellow-0;
+    }
+  }
+}
