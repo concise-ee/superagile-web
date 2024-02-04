@@ -1,0 +1,22 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.language": "en",
+    "cSpell.words": [
+        "#superagile",
+        "Aive",
+        "Bezos",
+        "Brene",
+        "CORBA",
+        "externalizable",
+        "Kiyosaki",
+        "Mikk",
+        "MTTR",
+        "Pais",
+        "Soone",
+        "superagile",
+        "Zhuk"
+    ],
+    "markdownlint.config": {
+        "MD025": false
+    }
+}

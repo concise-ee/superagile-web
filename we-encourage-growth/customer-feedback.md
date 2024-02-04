@@ -1,10 +1,12 @@
 ---
-title: "Customer Feedback"
+title: "Customer feedback"
 layout: default
-"We encourage growth"
+parent: "We encourage growth"
 ---
 
-*Imagine an inventor trapped in an isolated chamber, with only a small window to send out his creations to the outside world. Once the invention passes through, the window shuts, offering no glimpse of the world beyond or any indication of how his invention is received. This brilliant mind, although teeming with ideas, operates in a vacuum, with no feedback loop, forever in the dark about the true needs and reactions of the world outside.*
+# Customer feedback
+
+> *Imagine an inventor trapped in an isolated chamber, with only a small window to send out his creations to the outside world. Once the invention passes through, the window shuts, offering no glimpse of the world beyond or any indication of how his invention is received. This brilliant mind, although teeming with ideas, operates in a vacuum, with no feedback loop, forever in the dark about the true needs and reactions of the world outside.*
 
 This narrative, software being deployed without understanding how it's used, is a familiar tragedy in today's business environments. Brilliant teams can churn out innovative products, but without insight from the world outside, these products often fall flat.
 

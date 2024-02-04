@@ -1,9 +1,10 @@
 ---
-title: "Shift Left Security"
+title: "Shift-left security"
 layout: default
 parent: "We get things done"
 ---
 
+# Shift-left security
 
 In #superagile, we we place a high emphasis on speed and innovation. However, in our pursuit of these objectives, security cannot be an afterthought.  "Shift-left security" addresses this by embedding security practices early in the software development lifecycle. By "shifting" these security practices "left" towards the beginning of the development process, vulnerabilities can be identified and fixed sooner, reducing risks and costs.
 

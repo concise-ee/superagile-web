@@ -1,8 +1,10 @@
 ---
-title: "Psychological Safety"
+title: "Psychological safety"
 layout: default
 parent: "We do things together"
 ---
+
+# Psychological safety
 
 We all know that keeping the team effective and productive is something difficult to create and easy to lose. Similar to building trust goes the atmospheric sense of psychological safety. Maybe you have heard of Google’s study on effective teams. Psychological safety was the first and most important thing: we couldn't agree more.
 
@@ -13,5 +15,6 @@ In the realm of technology, there's a constant stream of new frameworks and tool
 Robert Kiyosaki has said: “In today’s fast-changing world, it’s not so much what you know anymore that counts, because often what you know is old. It is how fast you learn. That skill is priceless.” But for learning, we need a safe environment.
 
 Questions to ask:
+
 - Do I feel comfortable enough that I can ask when there is something I don’t understand?
 - Can I express my thoughts even when they diverge from the opinions of others?

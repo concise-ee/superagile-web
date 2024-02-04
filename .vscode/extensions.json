@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+      "davidanson.vscode-markdownlint",
+      "bierner.markdown-preview-github-styles",
+      "bierner.markdown-emoji",
+      "bierner.github-markdown-preview",
+      "bierner.markdown-checkbox",
+      "bierner.markdown-emoji",
+      "streetsidesoftware.code-spell-checker"
+    ]
+}
