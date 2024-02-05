@@ -25,10 +25,25 @@ a {
   text-decoration: none;
 }
 
-.main-content h2 {
-  text-transform: none !important;
-  font-size: $font-size-8 !important;
-  font-weight: 600;
+.main-content {
+  h1,
+  h2 {
+    text-transform: none !important;
+    font-size: $font-size-8 !important;
+    font-weight: 600;
+    margin-top: 0.5rem;
+  }
+  h2 + ul > li::before {
+    color: $yellow-0 !important;
+  }
+}
+
+.search-input-wrap {
+  box-shadow: none;
+  border: 1px solid;
+  &:focus-within {
+    border-color: $yellow-0;
+  }
 }
 
 h1,
@@ -137,6 +152,9 @@ h6,
 }
 
 @media (min-width: 50rem) {
+  .search-input-wrap {
+    border: none;
+  }
   .main {
     margin-left: 15.5rem;
   }
