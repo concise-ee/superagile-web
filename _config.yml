@@ -12,5 +12,5 @@ aux_links:
 
 callouts:
   warning-signs:
-    title: Warning signs
-    color: red
+    title: What not having it looks like
+    color: yellow
