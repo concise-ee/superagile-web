@@ -144,7 +144,7 @@ h4,
   align-items: flex-start;
 }
 
-.nav-list-item.active a {
+.nav-list-item.active > a {
   &:before {
     display: none;
   }
