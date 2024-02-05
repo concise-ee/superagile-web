@@ -63,8 +63,10 @@ h6,
 }
 
 .main-header {
+  border-bottom: 0;
   background-color: $grey-0;
   .search-input {
+    font-size: $font-size-4;
     background-color: $grey-0;
     color: $white;
     &::placeholder {
@@ -112,7 +114,7 @@ h6,
 
 .site-button {
   color: $yellow-0;
-  font-size: $font-size-3;
+  font-size: $font-size-4;
   &:hover {
     background-image: none;
   }
@@ -120,8 +122,11 @@ h6,
 .search-input:focus + .search-label .search-icon {
   color: $yellow-0;
 }
-
+.site-header {
+  border-bottom: 0;
+}
 .side-bar {
+  border-right: 0;
   background-color: $grey-2;
   .site-title {
     color: $yellow-0;
