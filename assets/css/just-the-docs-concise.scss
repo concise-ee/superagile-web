@@ -98,10 +98,18 @@ h6,
   color: $yellow-0;
 }
 
-.search-label .search-icon,
-.icon {
+.search-label .search-icon {
   color: $yellow-0;
 }
+
+.icon {
+  color: $white;
+  &:hover {
+    color: $yellow-0;
+    cursor: pointer;
+  }
+}
+
 .site-button {
   color: $yellow-0;
   font-size: $font-size-3;
