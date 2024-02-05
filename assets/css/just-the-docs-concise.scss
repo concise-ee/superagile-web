@@ -115,8 +115,9 @@ h6,
   color: $yellow-0;
 }
 
-.search-label .search-icon {
-  color: $yellow-0;
+.search-label .search-icon,
+.search-result-highlight {
+  color: $yellow-0 !important;
 }
 
 .icon {
