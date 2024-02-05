@@ -58,6 +58,7 @@ To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.ym
 Just upload all the files in the directory `_site`.
 
 ### Licensing and Attribution
+Superagile documentation © Concise Systems OÜ. It is distributed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 Just the docs theme is licensed under the [MIT License]. The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
 
