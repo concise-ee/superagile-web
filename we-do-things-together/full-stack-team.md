@@ -1,16 +1,16 @@
 ---
-title: "Full stack team"
+title: "Cross-functional team"
 layout: default
 parent: "We do things together"
 ---
 
-# Full stack team
+# Cross-functional team
 
 It all starts with the team. 2+2=10 is a well-known term describing good teamwork or in other words “*the whole is greater than the sum of its parts.*”
 
 Have you ever thought about how to improve the effectiveness of your development teams? How to be more productive? We have heard people wondering about it a lot and there seems to be millions of books about it.
 
-One solution we see is having full-stack development teams. The concept is similar to agile cross-functional teams and stream-aligned teams, which are mentioned in Mathew Skelton and Manual Pais’ book: “Team Topologies”. The expression came from ‘full-stack developer’, but it does not mean the same thing. A full-stack developer is someone good at both backend and frontend development. However, the full-stack development team has all the knowledge they need to build this specific product (or part of the product or business stream etc.). This includes backend, frontend, mobile development, DevOps, UX, data analysis, business understanding, and so on.
+One solution we see is having cross-functional development teams, who have all the knowledge they need to build this specific product (or part of the product or business stream etc.). This includes backend, frontend, mobile development, DevOps, UX, data analysis, business understanding, and so on.
 
 That doesn't mean everyone is an expert in all of them, but a shared goal and vision are essential parts of the concept. It means that everyone is aware of what is going on in different areas and what challenges there are. Like the ball that never drops and always stays somewhere in between, each team member needs to have a feeling of ownership. You do not need to wait behind other teams so there is major growth in effectiveness and productivity.
 
