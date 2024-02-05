@@ -50,6 +50,9 @@ h6,
 }
 
 #main-content {
+  hr {
+    display: none;
+  }
   & ul > li::before {
     color: $white;
   }
