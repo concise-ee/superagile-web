@@ -169,6 +169,9 @@ h4,
     width: 100%;
   }
 }
+.nav-list-link.active {
+  text-decoration: underline !important;
+}
 
 .site-button {
   color: $yellow-0;
