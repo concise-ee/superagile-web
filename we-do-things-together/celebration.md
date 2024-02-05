@@ -18,7 +18,7 @@ So once you have mastered all of the elements of #superagile, **never forget thi
 
 {: .warning-signs }
 
-> - Team not showing care for actual results of their work
+> - Team does not show care for actual results of their work
 > - Low sense of achievement
 > - Low team morale
 > - Burnout
@@ -30,7 +30,7 @@ Celebration is all about creativity and can range from big lavish events to smal
 - Celebrating each team member's birthday, even just saying happy birthday during stand-up, to celebrate each person themselves in the team.
 - Doing a shout out to everyone part of the project after an important feature, bugfix or technical improvement was done.
 - Getting together at least once a quarter with the whole team for a bonding team event.
-  - Can be anything from a dinner to paintball, even better if a team member can introduce a hobby of theirs as part of it.
+- Can be anything from a dinner to paintball, even better if a team member can introduce a hobby of theirs as part of it.
 
 ## How to thrive?
 
