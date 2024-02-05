@@ -28,7 +28,6 @@ a {
 .main-content {
   h1,
   h2 {
-    text-transform: none !important;
     font-size: $font-size-8 !important;
     font-weight: 600;
     margin-top: 0.5rem;
@@ -53,6 +52,7 @@ h4,
 h5,
 h6,
 #toctitle {
+  text-transform: lowercase !important;
   font-weight: 700;
   color: $white;
 }
@@ -74,6 +74,22 @@ h6,
   a {
     color: $yellow-0;
     text-decoration: none;
+  }
+}
+
+blockquote {
+  background-color: $grey-0;
+  border-radius: 15px;
+  padding: 1rem;
+  font-size: $font-size-6;
+  color: white;
+  strong {
+    font-weight: 700;
+    font-size: $font-size-7;
+    text-transform: lowercase;
+  }
+  ol > li::before {
+    color: $white !important;
   }
 }
 
