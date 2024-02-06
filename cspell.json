@@ -1,13 +1,18 @@
 {
     "version": "0.2",
     "language": "en",
+    "ignorePaths": [
+        "**/*.yaml"
+    ],
     "words": [
         "Aive",
+        "Anson",
         "Bezos",
         "Brene",
         "CORBA",
         "externalizable",
         "Kiyosaki",
+        "markdownlint",
         "Mikk",
         "MTTR",
         "Pais",
