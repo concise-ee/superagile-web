@@ -15,6 +15,7 @@ In the realm of technology, there's a constant stream of new frameworks and tool
 Robert Kiyosaki has said: “In today’s fast-changing world, it’s not so much what you know anymore that counts, because often what you know is old. It is how fast you learn. That skill is priceless.” But for learning, we need a safe environment.
 
 For assessing this separately, two questions (graded on a scale) can be asked anonymously:
+
 - Do I feel comfortable enough that I can ask when there is something I don’t understand?
 - Can I express my thoughts even when they diverge from the opinions of others?
 
