@@ -25,7 +25,7 @@ Once your PR is approved and merged, the changes will be published. If you have 
 3. Click **Edit this file** at the top corner of the file page. If it says **Edit this file in your fork of this project**, the process is identical, but indicates you're editing within a forked repository.
    - For Markdown tips, refer to the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 4. Make your changes and commit them to initiate a pull request.
-5. Provide a clear tiitle and a summary of your edits if the default title isn't descriptive enough.
+5. Provide a clear title and a summary of your edits if the default title isn't descriptive enough.
 6. By default, you'll **Create a new branch for this commit and start a pull request**. You can customize the branch name or leave it as is.
 7. Click **Propose changes**.
 8. Review your changes on the next page, ensuring everything is correct.
