@@ -22,4 +22,4 @@ To truly harness the potential of every developer, granting them access to commu
 
 **KPIs to measure:**
 
-- How often does someone in the team say: “this could have been prevented if we knew that beforehand”?
+- How often does someone in the team say: “This could have been prevented if we knew that beforehand”?
