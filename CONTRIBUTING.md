@@ -21,7 +21,7 @@ Once your PR is approved and merged, the changes will be published. If you have 
 ## How to Make Edits within GitHub
 
 1. Visit the [repository](https://github.com/concise-ee/superagile-web).
-2. Locate the file by navigating through the directories.
+2. Locate the file by navigating through the directories. You can see the file's location in the URL of the web page. For example, if you are on https://superagile.app/we-get-things-done/continuous_deployment.html, the file is located at /we-get-things-done/continuous_deployment.md.
 3. Click **Edit this file** at the top corner of the file page. If it says **Edit this file in your fork of this project**, the process is identical, but indicates you're editing within a forked repository.
    - For Markdown tips, refer to the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 4. Make your changes and commit them to initiate a pull request.
