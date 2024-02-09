@@ -21,12 +21,6 @@ Software being deployed without understanding how it's used is a familiar traged
 
 ### Start talking to customers
 
-> At a minimum, weekly touchpoints with customers\
-> By the team building the product\
-> Where they conduct small research activities\
-> In pursuit of a desired outcome\
-> -- from [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) by Teresa Torres
-
 At the very least, product teams should talk to customers once a week.
 
 [The Mom Test](https://www.momtestbook.com/) is the best short book on how to talk to customers to find opportunities and learn if your ideas are good.
