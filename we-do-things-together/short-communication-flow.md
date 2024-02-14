@@ -1,7 +1,7 @@
 ---
 title: "Short communication flow"
 layout: default
-parent: "We encourage growth"
+parent: "We do things together"
 ---
 
 # Short communication flow
