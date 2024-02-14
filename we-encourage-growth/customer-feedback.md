@@ -23,9 +23,9 @@ At the very least, product teams should talk to customers once a week.
 
 ## Use product analytics
 
-Integrate with a product analytics platform like MixPanel, Amplitude, or PostHog to enable your team to continuously analyze user behaviors.
+Integrate with a product analytics platform like [MixPanel](https://mixpanel.com/), [Amplitude](https://amplitude.com/), or [PostHog](https://posthog.com/) to enable your team to continuously analyze user behaviors.
 
-Nowadays, it's also possible to use tools like Sentry and Hotjar to record user sessions, so you can review video-like reproductions of real users' sessions
+Nowadays, it's also possible to use tools like [Sentry](https://sentry.io/) and [Hotjar](https://www.hotjar.com/) to record user sessions, so you can review video-like reproductions of real users' sessions
 
 ## Do usability testing
 
