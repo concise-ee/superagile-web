@@ -12,7 +12,7 @@ One of the critical impediments to a team's efficiency is the frequency of commu
 There are two ways to avoid these delays:
 
 1. **Short Communication Flow:** Make sure everyone has the freedom to directly address questions or issues by talking to other teams
-2. **Full Stack Team:** Make sure each team has everything they need to work without constantly waiting for, or asking others. (See Full Stack Team chapter)
+2. **Cross-Functional Team:** Make sure each team has everything they need to work without constantly waiting for, or asking others. (See [Cross-Functional Team]({% link we-do-things-together/full-stack-team.md %}) chapter)
 
 We are always looking for a better balance between different roles and direct communication in our #superagile approach. While it's crucial to ensure clear communication, it doesn't mean everyone should be included everywhere—doing so can be inefficient.
 
