@@ -6,11 +6,11 @@ parent: "We encourage growth"
 
 # Business growth
 
-When teams understand the business objectives of their work, it transforms the way they approach tasks. Instead of just following instructions, they can become proactive problem solvers.
+> "My advice would be to spend less time on finance, spend less time in the conference rooms, less time on PowerPoint, and more time on just trying to make your product as amazing as possible." - Elon Musk
 
-When people understand the 'why', they can contribute to the 'what'. This means they can focus on finding the best way to solve a problem and ask questions like "Is there a better way to do this that we haven't considered?" or "Does this feature genuinely serve our end goal?".
+A developer asking questions about the value a product creates and the problems it solves or doesn't solve is the fastest way to making products as amazing as possible. When people understand the "why", they can contribute to the "what".
 
-Furthermore, the freedom to experiment is an invaluable asset. Traditional development models can sometimes handcuff developers to specific paths, but when the focus is the objective, there's room to explore. Experimentation leads to innovation. It means teams can test out different approaches, determine what works best, and pivot when necessary. When teams can rapidly iterate and pivot based on feedback, products and features are released faster, granting the company a competitive edge.
+Successful companies differ from others by their norm of ownership, resulting in higher levels of autonomy, empowerment, and responsibility. This in turn opens up the possibility of using the scientific method - conducting experiments and analyzing data - enabling a far faster method of learning than that was earlier possible. [^the-geek-way]
 
 ## Outcomes are the result of two-way negotiation
 
@@ -39,3 +39,5 @@ It's impossible to contribute to business growth without a clear understanding o
 Teams should have the freedom to experiment with multiple approaches to achieve better outcomes. This means that multiple solutions to the same problem are tried. This approach requires a supportive culture that views failures and setbacks not as final, but as valuable learning opportunities that contribute to the collective knowledge and improvement of the team.
 
 Finding the best solution usually doesn't require multiple solutions to be coded. Instead, the emphasis should be on ideation, prototyping, and validation before committing significant resources to development.
+
+[^the-geek-way]: <https://www.amazon.com/Geek-Way-Radical-Transforming-Business/dp/0316436704>
