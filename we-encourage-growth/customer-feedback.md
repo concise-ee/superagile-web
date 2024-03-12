@@ -32,19 +32,21 @@ Software being deployed without understanding how it's used is a familiar traged
 - Communication between the team and customer-facing roles like sales and support is strong.
 - Product analytics are available and used by everyone on the team to understand the impact of their work.
 
-## Start talking to customers
+## Strategies
+
+### Start talking to customers
 
 At the very least, product teams should talk to customers once a week.
 
 [The Mom Test](https://www.momtestbook.com/) is the best short book on how to talk to customers to find opportunities and learn if your ideas are good.
 
-## Use product analytics
+### Use product analytics
 
 All teams should build analytics into the product.
 
 Integrate with a product analytics platform like [MixPanel](https://mixpanel.com/), [Amplitude](https://amplitude.com/), or [PostHog](https://posthog.com/) to enable your team to continuously analyze user behaviors.
 
-## Do usability testing
+### Do usability testing
 
 Observe users as they interact with your product.
 
@@ -52,13 +54,13 @@ Nowadays, tools like [Sentry](https://sentry.io/) and [Hotjar](https://www.hotja
 
 Use A/B testing to compare multiple solutions to see which one performs better.
 
-## Talk to people who talk to customers
+### Talk to people who talk to customers
 
 Schedule regular meetings with sales, support, and account management teams to discuss customer feedback, concerns, and suggestions they've encountered. Conduct quarterly reviews to analyze the feedback collected from customer-facing teams, identify trends, and make strategic decisions.
 
 Ensure that these dialogues include participants beyond just the upper management to avoid the "telephone game" effect, where the original feedback could become distorted.
 
-## Make Customer Feedback available to all team members
+### Make Customer Feedback available to all team members
 
 Customer-centrism should not be limited to product managers and designers. All product team members including developers must be exposed to the consequences of their creations - both the good and the bad.
 

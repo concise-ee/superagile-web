@@ -28,9 +28,11 @@ Successful companies differ from others through a culture of ownership, resultin
 - We have a strong culture of ownership, autonomy, and empowerment, encouraging us to explore different solutions.
 - We actively negotiate outcomes with product leadership, ensuring our work aligns with broader business objectives.
 
-## Understand the difference between outputs and outcomes
+## Strategies
 
-### Outputs
+### Understand the difference between outputs and outcomes
+
+#### Outputs
 
 Outputs are the direct results of tasks or activities. In the context of product development, outputs can include new features, updates, software releases, or any tangible deliverable produced by the team.
 
@@ -38,7 +40,7 @@ Outputs are quantifiable and easy to measure. They represent the volume of work 
 
 By focusing on outputs, teams can appear to be busy, while not actually contributing to business growth.
 
-### Outcomes
+#### Outcomes
 
 Outcomes are the changes or benefits realized as a result of the outputs. They reflect the value created for the business or its customers Outcomes can include increased customer satisfaction, higher sales, market growth, or improved operational efficiency.
 
@@ -46,7 +48,7 @@ Outcomes are qualitative and sometimes quantitative, focusing on the effectivene
 
 By focusing on outcomes, organizations can avoid work on outputs that do not contribute to meaningful business growth.
 
-## Outcomes are the result of two-way negotiation[^continuous-discovery-habits]
+### Outcomes are the result of two-way negotiation[^continuous-discovery-habits]
 
 The focus of the team's efforts should be on the results they achieve, with an emphasis on the quality of these results rather than the volume of tasks completed.
 
@@ -58,7 +60,7 @@ If your team is setting their own outcome with no input from the product leader,
 
 If your team is already negotiating outcomes with your product leader, congratulations!
 
-## Define hypotheses[^hypothesis-driven-development]
+### Define hypotheses[^hypothesis-driven-development]
 
 Hypothesis-driven development complements user stories by focusing on business outcomes instead of the user's goals.
 
@@ -70,11 +72,11 @@ To articulate a hypothesis, the framework can be structured as follows:
 
 > We believe this **capability** will result in this **outcome**. We will know we have succeeded when we see a **measurable signal**.
 
-## Measure impact
+### Measure impact
 
 Contributing to business growth requires a clear understanding of your efforts' impact. This involves establishing key performance indicators (KPIs) and metrics that directly correlate with the desired outcomes.
 
-## Use lightweight change approval processes
+### Use lightweight change approval processes
 
 Changes to code, infrastructure, and databases should be reviewed using lightweight processes such as code reviews or paired programming.
 
@@ -82,7 +84,7 @@ Accelerate[^accelerate] research shows that external approval processes (each ch
 
 Some standards like PCI DSS require segregation of duties for authoring and approving of changes. This does not require the use of a separate external review board. We recommend processes where a team member not involved in authoring the change conducts the code review and approves the change.
 
-## Encourage innovation[^accelerate]
+### Encourage innovation[^accelerate]
 
 Teams should have the freedom to experiment with multiple approaches to achieve better outcomes. This means that multiple solutions to the same problem are tried. This approach requires a supportive culture that views failures and setbacks not as final, but as valuable learning opportunities that contribute to the collective knowledge and improvement of the team.
 
