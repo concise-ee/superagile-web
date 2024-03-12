@@ -10,8 +10,7 @@ We welcome contributions from everyone, not just Concise employees. If you've sp
 
 ## Contribution Process
 
-All changes are made as pull requests (PR) through the GitHub [superagile-web repo](https://github.com/concise-ee/superagile-web/), where our files are hosted. 
-
+All changes are made as pull requests (PR) through the GitHub [superagile-web repo](https://github.com/concise-ee/superagile-web/), where our files are hosted.
 
 ## How to edit using GitHub web interface
 
