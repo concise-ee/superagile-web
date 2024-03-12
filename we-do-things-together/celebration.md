@@ -32,7 +32,6 @@ So once you have mastered all of the elements of #superagile, **never forget thi
 - High team morale
 - Low turnover
 
-
 ## Creating the baseline
 
 Celebration is all about creativity and can range from big lavish events to small thank you's. It is very natural that each team will gradually develop a different celebration culture. It's rarely the case where you can say that there's enough celebration in a team, but if you're just starting out, a good baseline is:
