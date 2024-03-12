@@ -40,6 +40,7 @@ Celebration is all about creativity and can range from big lavish events to smal
 - Doing a shout out to everyone part of the project after an important feature, bugfix or technical improvement was done.
 - Getting together at least once a quarter with the whole team for a bonding team event.
 - Can be anything from a dinner to paintball, even better if a team member can introduce a hobby of theirs as part of it.
+- K.I.S.S. principle: Keep It Simple, Stupid. Don't overthink it, just do it. It's better to do something small than nothing at all.
 
 ## How to thrive?
 
