@@ -20,17 +20,17 @@ So once you have mastered all of the elements of #superagile, **never forget thi
 
 ### Worst case
 
-> - Team does not show care for actual results of their work
-> - Low sense of achievement
-> - Low team morale
-> - Burnout
+- Team does not show care for actual results of their work
+- Low sense of achievement
+- Low team morale
+- Burnout
 
 ### Best case
 
-> - Team is enthusiastic for seeing the results of their work
-> - Team remembers their last achievements
-> - High team morale
-> - Low turnover
+- Team is enthusiastic for seeing the results of their work
+- Team remembers their last achievements
+- High team morale
+- Low turnover
 
 ## Creating the baseline
 

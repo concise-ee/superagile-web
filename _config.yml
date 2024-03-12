@@ -18,7 +18,3 @@ aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
-callouts:
-  warning-signs:
-    title: What not having it looks like
-    color: yellow
