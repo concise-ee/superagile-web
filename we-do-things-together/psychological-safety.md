@@ -22,12 +22,14 @@ For assessing this separately, two questions (graded on a scale) can be asked an
 ## What it feels like
 
 ### Worst case
+
 - Low engagement in meetings
 - Minimal innovation and learning
 - Helicopter management, i.e. constant micromanagement
 - Potential risks and delays hidden, instead of discussed
 
 ### Best case
+
 - Everyone thinks along and provides ideas in the meeting, without having to be asked
 - Constant innovation, with everyone having a mindset to learn new things
 - All members trust each other to do what is best for the team
