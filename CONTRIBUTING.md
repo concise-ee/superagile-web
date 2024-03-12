@@ -20,3 +20,11 @@ Make sure you are logged in to GitHub before starting.
 2. Click *edit this page on github* link at the bottom of the page.
 3. Make your changes. Don't be stressed about formatting or perfection, everything can be changed during review.
 4. Create a pull request. If you need a bit of hand-holding, check out GitHub Docs for [Editing Files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+
+## Page structure
+
+Every chapter should contain
+
+1. Introduction.
+2. What it feels like (when things are good & when things are bad).
+3. How to improve.
