@@ -21,6 +21,6 @@ At first glance, it might seem more complex to have more moving parts. Microserv
 > 5. All service interfaces, without exception, must be designed from the ground up to be externalizable. That is to say, the team must plan and design to be able to expose the interface to developers in the outside world. No exceptions.
 > 6. Anyone who doesn’t do this will be fired.
 
+## What does good look like
 
-# What does good look like
 **Lead with context not control.** To best achieve the independence that microservices offer, practice a context-based leadership model to inspire innovation, creativity and end-to-end ownership within teams. In practice, this means that managers provide all important information to the developers, but decisions regarding implementation and technology are left for the developers to work out. Teams can decide what projects to take on and how to prioritize work - this, of course, demands a lot of trust from all management levels of the organization. Funnily enough, micromanaging doesn’t mix well with microservices.
