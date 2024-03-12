@@ -23,7 +23,7 @@ Make sure you are logged in to GitHub before starting.
 
 ## Page structure
 
-Every chapter should contain
+Every arc should contain
 
 1. Introduction.
 2. What it feels like (when things are good & when things are bad).
