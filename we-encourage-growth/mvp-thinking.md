@@ -22,20 +22,16 @@ This begs the question: does MVP thinking imply that we should skip research and
 
 ### Best case
 
-Rapid iterations: Releases happen frequently, and the product evolves incrementally based on data and feedback.
-Embracing feedback loops: There's a strong emphasis on collecting and acting upon input from users and stakeholders.
-Data-driven decisions: Changes and improvements are guided by metrics and real user behavior rather than assumptions.
-Comfortable with 'imperfect' releases: The initial offering may not be polished, but it's functional and designed to gather insights.
-Pivots in direction: The plan is adaptable, and the team is willing to shift direction if the data or feedback indicates it's necessary.
+- **Rapid iterations:** Releases happen frequently, and the product evolves incrementally based on data and feedback.
+- **Embracing feedback loops:** There's a strong emphasis on collecting and acting upon input from users and stakeholders.
+- **Data-driven decisions:** Changes and improvements are guided by metrics and real user behavior rather than assumptions.
+Comfortable with 'imperfect' releases:** The initial offering may not be polished, but it's functional and designed to gather insights.
+- **Pivots in direction:** The plan is adaptable, and the team is willing to shift direction if the data or feedback indicates it's necessary.
 
 ### Worst case
 
-Long development cycles: Significant time is spent between releases or before the initial launch.
-"Big bang" releases: The mindset focuses on launching a complete product with all features in one go.
-Assumption-based decision-making: Decisions are made without validation by data or user testing.
-Fear of failure: Products are delayed or polished endlessly due to the desire for a 'perfect' launch.
-Perfectionism: Products are delayed or polished endlessly before release due to the desire for a 'perfect' launch.
-
-**KPIs to measure:**
-
-- How quickly you go through the whole cycle – from starting at the initial idea to learning from feedback or data – on average?
+- **Long development cycles:** Significant time is spent between releases or before the initial launch.
+- **"Big bang" releases:** The mindset focuses on launching a complete product with all features in one go.
+- **Assumption-based decision-making:** Decisions are made without validation by data or user testing.
+- **Fear of failure:** Products are delayed or polished endlessly due to the desire for a 'perfect' launch.
+- **Perfectionism:** Products are delayed or polished endlessly before release due to the desire for a 'perfect' launch.
