@@ -20,3 +20,19 @@ Test what is reasonable since the unthinkable will happen anyway - and when it d
 An important part of the testing strategy is to understand when it’s beneficial to test and when the monitoring will be more effective. However, you will need both anyway and both of them are critical to use together with CDP.
 
 So in the end, testing and monitoring will give you the best quality and speed for the money.
+
+## What it feels like
+
+### Best case
+
+- **Prioritization of high-risk areas:** You focus testing efforts on the areas of your system that are most likely to cause issues or have the most significant consequences if they fail.
+- **Understanding when to test vs. monitor:** You recognize the value in both testing and monitoring, using them strategically where they make the most sense.
+- **Realistic expectations:** You accept that 100% testing coverage is impossible, and focus on testing what's most important.
+- **Proactive preparation:** You implement strategies like zero-exception policies, end-to-end tracing, static code analysis, and chaos engineering to catch potential problems early.
+- **Focus on maintaining high quality:** You understand that balanced testing aims to identify and address critical quality issues before they impact users.
+
+### Worst case
+
+- **Testing everything:** You waste resources trying to test every single aspect of your system, regardless of its risk or importance.
+- **Over-reliance on testing:** You neglect monitoring strategies, potentially missing issues that occur outside of your structured test cases.
+- **Reactive problem-solving:**  You prioritize finding and fixing bugs after they are reported by users, rather than proactively preventing them.
