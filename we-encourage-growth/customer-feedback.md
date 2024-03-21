@@ -17,6 +17,13 @@ Software being deployed without understanding how it's used is a familiar traged
 
 ## What it feels like
 
+### Best case
+
+- The team makes it a priority to understand and meet users needs.
+- Weekly interactions with users take place through interviews, workshops, and testing sessions.
+- Communication between the team and customer-facing roles like sales and support is strong.
+- Product analytics are available and used by everyone on the team to understand the impact of their work.
+
 ### Worst case
 
 - The team doesn't even know who their users are.
@@ -24,13 +31,6 @@ Software being deployed without understanding how it's used is a familiar traged
 - Interactions with users are rare. Engineers have never seen an user.
 - Product analytics are not used.
 - Usability testing never takes place.
-
-### Best case
-
-- The team makes it a priority to understand and meet users needs.
-- Weekly interactions with users take place through interviews, workshops, and testing sessions.
-- Communication between the team and customer-facing roles like sales and support is strong.
-- Product analytics are available and used by everyone on the team to understand the impact of their work.
 
 ## Strategies
 

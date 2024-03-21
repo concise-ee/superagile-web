@@ -14,19 +14,19 @@ Successful companies differ from others through a culture of ownership, resultin
 
 ## What it feels like
 
-### Ignoring the why
-
-- Our team focuses on finishing tasks without really thinking about how our work helps the business grow.
-- We don't spend much time talking about why we're doing what we're doing or the benefits our product offers.
-- We often add features without validating if they're actually useful for our users or if they help achieve our business goals.
-- We set our own outcomes without knowing what the business is trying to achieve, or we are asked to deliver outputs with no regard for outcomes.
-
 ### Solving real problems
 
 - Our team always keeps business growth in mind when we develop our product.
 - We make sure to understand how our product is useful and what problems it solves.  
 - We have a strong culture of ownership, autonomy, and empowerment, encouraging us to explore different solutions.
 - We actively negotiate outcomes with product leadership, ensuring our work aligns with broader business objectives.
+
+### Ignoring the why
+
+- Our team focuses on finishing tasks without really thinking about how our work helps the business grow.
+- We don't spend much time talking about why we're doing what we're doing or the benefits our product offers.
+- We often add features without validating if they're actually useful for our users or if they help achieve our business goals.
+- We set our own outcomes without knowing what the business is trying to achieve, or we are asked to deliver outputs with no regard for outcomes.
 
 ## Strategies
 
