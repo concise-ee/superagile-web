@@ -30,9 +30,11 @@ So in the end, testing and monitoring will give you the best quality and speed f
 - **Realistic expectations:** You accept that 100% testing coverage is impossible, and focus on testing what's most important.
 - **Proactive preparation:** You implement strategies like zero-exception policies, end-to-end tracing, static code analysis, and chaos engineering to catch potential problems early.
 - **Focus on maintaining high quality:** You understand that balanced testing aims to identify and address critical quality issues before they impact users.
+- **High confidence in tests:** Developers are confident that tests and/or monitoring will catch issues introduced by their commits.
 
 ### Worst case
 
 - **Testing everything:** You waste resources trying to test every single aspect of your system, regardless of its risk or importance.
 - **Over-reliance on testing:** You neglect monitoring strategies, potentially missing issues that occur outside of your structured test cases.
 - **Reactive problem-solving:**  You prioritize finding and fixing bugs after they are reported by users, rather than proactively preventing them.
+- **Fear of breaking something:** Developers are hesitant to commit code without thorough code reviews and/or manual testing.
