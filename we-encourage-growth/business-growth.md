@@ -6,7 +6,7 @@ parent: "We encourage growth"
 
 # Business growth
 
-> "My advice would be to spend less time on finance, spend less time in the conference rooms, less time on PowerPoint, and more time on just trying to make your product as amazing as possible." - Elon Musk
+> "The best code isn't the one with the cleverest algorithms, but the one that delivers the most value to users with the least complexity." - Kent Beck
 
 Asking questions about the value a product creates and the problems it solves—or doesn't solve—is the fastest way to make products as amazing as possible. When people understand the "why," they can better contribute to the "what."
 
